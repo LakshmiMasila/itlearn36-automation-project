@@ -1,4 +1,3 @@
-
 # ITLearn360 Web Automation Framework
 
 This project is a Selenium automation framework for testing the ITLearn360.com website using Java, TestNG, and Maven.
